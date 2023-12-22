@@ -9,3 +9,9 @@ The WiFi Speed Tester in Python utilizes the `speedtest` library to measure and 
 
    ```bash
    pip install speedtest-cli
+
+
+
+Wifi Download Speed is  33260529.44019052
+
+Wifi Upload Speed is  28289053.5236785
