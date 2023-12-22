@@ -1,0 +1,21 @@
+Start
+
+   |
+   V
+
+Initialize Speedtest Object
+
+   |
+   V
+
+Print "Wifi Download Speed is ", wifi.download()
+
+   |
+   V
+
+Print "Wifi Upload Speed is ", wifi.upload()
+
+   |
+   V
+
+End
