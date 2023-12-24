@@ -1,4 +1,5 @@
 #Internet Speed Test using python
+
 import speedtest
 wifi  = speedtest.Speedtest()
 print("Wifi Download Speed is ", wifi.download())
