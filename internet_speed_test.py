@@ -1,5 +1,4 @@
 #Internet Speed Test using Python
-
 import speedtest
 
 wifi  = speedtest.Speedtest()
